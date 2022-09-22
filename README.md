@@ -1,4 +1,8 @@
-### Hi there 👋
+Welcome to my GitHub page!
+
+I am a frontend software engineer with background experience as a business analyst. Experience working with React, JavaScript, Ruby, Ruby on Rails, SQL, HTML, and CSS. Expertise in leading a product through a full software development life cycle. My experience working as a BA gives me a unique perspective on delivering user-friendly, high quality and bug-free software.
+
+- 🔭 I’m currently open to new chalanges! Fill free to reach me on [Linkedin](https://www.linkedin.com/in/antonina-orobets-2039396b/)
 
 <!--
 **antoninaorobets/antoninaorobets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
