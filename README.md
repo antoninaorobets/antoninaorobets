@@ -1,6 +1,6 @@
 Welcome to my GitHub page!
 
-I am a frontend software engineer with background experience as a business analyst. Experience working with React, JavaScript, Ruby, Ruby on Rails, SQL, HTML, and CSS. Expertise in leading a product through a full software development life cycle. My experience working as a BA gives me a unique perspective on delivering user-friendly, high quality and bug-free software.
+I am Full Stack Software Engineer specializing in user-focused, high-performance web applications across React, Angular, TypeScript, Node.js, NestJS, and PostgreSQL. Committed to clean, modular code and future-proof architecture, transforming complex business requirements into intuitive, scalable full-stack solutions. Leverages a Product Management background throughout the development lifecycle to proactively identify architectural trade-offs, requirements gaps, and edge cases early in the SDLC, with a consistent focus on business goals and high-fidelity delivery.
 
 - 🔭 I’m currently open to new chalanges! Fill free to reach me on [Linkedin](https://www.linkedin.com/in/antonina-orobets-2039396b/)
 
